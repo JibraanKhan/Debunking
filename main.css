@@ -1,0 +1,43 @@
+body{
+
+}
+div{
+  padding:5px;
+  border-radius: 25px;
+  border-style: groove;
+}
+p{
+  font-size: 24px;
+  text-indent: 20px;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  margin-top: 30px;
+}
+h1{
+  font-size: 36px;
+  text-align: center;
+}
+h2{
+  font-style: Bold;
+  font-size: 30px;
+  text-align: center;
+}
+.Facts{
+  background-color: #4ecd98;
+  border-color: #007b3c;
+}
+.Transition{
+  background-color: #d1d3d4;
+  border-color: #939598;
+}
+.Myth{
+  background-color: #ff9263;
+  border-color: #af150a;
+}
+.Gap{
+  background-color: #7ddafb;
+  border-color: #59a2d7;
+}
